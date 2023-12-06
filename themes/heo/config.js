@@ -8,12 +8,12 @@ const CONFIG = {
   ],
 
   // 英雄区(首页顶部大卡)
-  HEO_HERO_TITLE_1: 'Hi',
-  HEO_HERO_TITLE_2: "I'm Simon",
-  HEO_HERO_TITLE_3: 'Welcome to my blog',
-  HEO_HERO_TITLE_4: 'New!',
-  HEO_HERO_TITLE_5: "Simon Wu's Github",
-  HEO_HERO_TITLE_LINK: 'https://github.com/DimCyan',
+  // HEO_HERO_TITLE_1: 'Hi',
+  // HEO_HERO_TITLE_2: "I'm Simon",
+  // HEO_HERO_TITLE_3: 'Welcome to my blog',
+  // HEO_HERO_TITLE_4: 'New!',
+  // HEO_HERO_TITLE_5: "Simon Wu's Github",
+  // HEO_HERO_TITLE_LINK: 'https://github.com/DimCyan',
 
   // 英雄区显示三个置顶分类
   HEO_HERO_CATEGORY_1: { title: 'Album', url: '/category/Album' },
