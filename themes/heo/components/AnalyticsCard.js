@@ -23,8 +23,8 @@ export function AnalyticsCard(props) {
             </div>
             <div className='inline'>
                 <div className='flex justify-between'>
-                    <div>Built:</div>
-                    <div>{diffDays} Days</div>
+                    <div>BuiltDays:</div>
+                    <div>{diffDays}</div>
                 </div>
             </div>
             <div className='hidden busuanzi_container_page_pv'>
